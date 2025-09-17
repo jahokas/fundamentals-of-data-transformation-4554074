@@ -3,5 +3,7 @@
         "!sql"
     ],
     "workbench.colorTheme": "Default Dark+",
-    "window.zoomLevel":1
+    "window.zoomLevel": 1,
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python-envs.pythonProjects": []
 }
